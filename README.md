@@ -23,8 +23,8 @@ The goal of the project is to implement a CNN-based handwritten digit classifica
 ## To Run the Code:
 
 ```
-- Extract Invisible AI Inc._Project_MP
-- cd Desktop/Invisible AI Inc._Project_MP
+- Extract Digit_Classification
+- cd Desktop/Digit_Classification
 - Open Jupyter Notebook Digit_Classification.ipynb
 - Run cells on the Jupyter Notebook.
 
